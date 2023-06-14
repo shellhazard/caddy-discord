@@ -1,4 +1,4 @@
-module github.com/enum-gg/caddy-discord
+module github.com/shellhazard/caddy-discord
 
 go 1.20
 

@@ -3,7 +3,7 @@ package caddydiscord
 import (
 	"errors"
 	"fmt"
-	"github.com/enum-gg/caddy-discord/internal/discord"
+	"github.com/shellhazard/caddy-discord/internal/discord"
 	"github.com/golang-jwt/jwt/v4"
 	"time"
 )

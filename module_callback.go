@@ -12,7 +12,7 @@ import (
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
 	"github.com/caddyserver/caddy/v2/caddyconfig/httpcaddyfile"
 	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
-	"github.com/enum-gg/caddy-discord/internal/discord"
+	"github.com/shellhazard/caddy-discord/internal/discord"
 	"golang.org/x/oauth2"
 )
 

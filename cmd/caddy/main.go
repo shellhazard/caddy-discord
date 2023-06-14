@@ -33,7 +33,7 @@ import (
 
 	// plug in Caddy modules here
 	_ "github.com/caddyserver/caddy/v2/modules/standard"
-	_ "github.com/enum-gg/caddy-discord"
+	_ "github.com/shellhazard/caddy-discord"
 )
 
 func main() {
